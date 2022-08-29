@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Flutter](projects)
 
-- 🌱 I’m currently learning **Flutter and dart language**
+- 🌱 I’m currently making project with **Flutter and dart language**
 
 - 📫 How to reach me **zeyadwork2002@gmail.com**
 
