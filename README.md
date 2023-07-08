@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyadshawki&label=Profile%20views&color=0e75b6&style=flat" alt="zeyadshawki" /> </p>
 
-- 🔭 I’m currently working on [Flutter](projects)
+- 🔭   Flutter , larvel , java ,c and python Developer
 
-- 🌱 I’m currently learning **Flutter and dart language**
 
 - 📫 How to reach me **zeyadwork2002@gmail.com**
 
