@@ -11,6 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
+<a href="https://www.upwork.com/freelancers/~01ec15cac34da6497e?viewMode=1" target="blank"><img align="center" src="https://banner2.cleanpng.com/20180528/vsr/kisspng-upwork-freelancer-mountain-view-job-fiverr-basic-skill-5b0cb06c89fa93.9328057615275582525652.jpg" alt="zeyad_shawki" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/zeyad-shawki-907331277/" target="blank"><img align="center" src="https://banner2.cleanpng.com/20180518/yk/kisspng-computer-icons-linkedin-5aff0283a31f04.0344839015266617636682.jpg" alt="zeyad_shawki" height="30" width="40" /></a>
   
 <a href="https://fb.com/zeyad shawky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zeyad shawky" height="30" width="40" /></a>
