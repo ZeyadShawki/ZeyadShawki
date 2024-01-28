@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/zeyad-shawki-907331277/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw3_Cz-w-Fp1ptOCdGxqvKGK&ust=1706553028747000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKj36MjbgIQDFQAAAAAdAAAAABAE" alt="zeyad_shawki" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zeyad-shawki-907331277/" target="blank"><img align="center" src="https://banner2.cleanpng.com/20180518/yk/kisspng-computer-icons-linkedin-5aff0283a31f04.0344839015266617636682.jpg" alt="zeyad_shawki" height="30" width="40" /></a>
   
 <a href="https://fb.com/zeyad shawky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zeyad shawky" height="30" width="40" /></a>
 <a href="https://instagram.com/zeyad_shawki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeyad_shawki" height="30" width="40" /></a>
